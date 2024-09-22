@@ -1,5 +1,10 @@
 #!/bin/bash
 
+: '
+This script focuses on the use of loops, if-else statements, and case statements in Bash Scripting.
+It provides a simple file management menu that allows users to create, delete and update timestamps of files.
+'
+
 while true; do
     echo "=============================="
     echo "         File Management Script  "
